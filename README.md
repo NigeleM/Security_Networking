@@ -9,6 +9,8 @@ Cyber Security and Networking Scripts
 
 ipParser.py
 - Given a list of ips in string format, group the consecutive ips together and add the nonconsecutive
-- example Give ['1.1.1.1','1.1.1.2','1.1.1.4','1.1.1.5','1.1.1.6']
+- example Given ['1.1.1.1','1.1.1.2','1.1.1.4','1.1.1.5','1.1.1.6']
 - Output 1.1.1.1-1.1.1.2,1.1.1.4-1.1.1.6
+
+
 
